@@ -1,0 +1,17 @@
+About this project:
+
+ I have analyzed the " Store Annual Report" and created a powerful dashboard using Excel to gain insights that can assist store
+
+Objective :The primary objective of “ Store Annual Report 2022” was to analyze customer behavior and sales performance and grow more in upcoming years.
+
+Steps followed:
+
+1.Data Extraction-Data was extracted in form of Excel(.XLSX) sheet From Kaggle.
+
+2.Data cleaning- This will ensure accuracy and reliability of raw data. Inconsistent values and NULL entries were fixed.
+
+2.Data Processing: Two columns ‘Age Group’ and ‘Month’ were added for deeper analysis of dataset.
+
+4.Data analysis: Pivot Tables were created for uncovering patterns and trends.
+
+5.Data Visualization: Various Charts, graphs and slicers were created for visualizing the key insights.
